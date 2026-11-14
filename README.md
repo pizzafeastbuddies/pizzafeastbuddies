@@ -2,7 +2,7 @@
 <h1 align="center">🍕 Pizza Feast Buddies 🍕</h1>
 
 <p align="center">
-  <img src="assets/LEGO_Pizzeria_Pizza_Toss_Party.gif" alt="Lego pizzeria crew tossing pizza in celebration" width="420" />
+  <img src="./assets/LEGO_Pizzeria_Pizza_Toss_Party.gif" alt="Lego pizzeria crew tossing pizza in celebration" width="420" />
 </p>
 
 <p align="center">
