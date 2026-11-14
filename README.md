@@ -88,22 +88,22 @@ Every participant is welcome to add their own tech stack here. This list grows w
 
 ### 📊 GitHub stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pizzafeastbuddies&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizzafeastbuddies&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pizzafeastbuddies&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pizzafeastbuddies&theme=tokyonight" alt="Most-used languages by commit count" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pizzafeastbuddies&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-### 🏆 Trophies
+### 👤 GitHub profile overview
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pizzafeastbuddies&theme=tokyonight&no-frame=true&margin-w=10&column=7" alt="trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pizzafeastbuddies&theme=tokyonight" alt="GitHub profile details" />
 </p>
 
-### 📈 Contribution graph
+### ⏰ Most productive time
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pizzafeastbuddies&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pizzafeastbuddies&theme=tokyonight&utcOffset=8" alt="Most productive time by hour" />
 </p>
 
 ### 🐍 Snake eating our contributions
